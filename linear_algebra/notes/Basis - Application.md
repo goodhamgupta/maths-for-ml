@@ -19,7 +19,6 @@
 - These will simplify the computation required.
 - If they are not orthogonal, we CANNOT map a vector in one set of basis vectors(say $\hat{e}$) to another(say $\hat{b}$). WE WILL HAVE TO USE MATRICES
 
-
 ## Applications of changing basis
 
 - Can be used to measure the fit of of a line in linear regression

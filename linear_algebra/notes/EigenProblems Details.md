@@ -24,7 +24,7 @@ $$\boldsymbol{A}x = \lambda{}x$$
 $$= (\boldsymbol{A}-\lambda{})x=0$$
 $$= (\boldsymbol{A}-\boldsymbol{I}\lambda{})x=0$$
 
-- $\boldsymbol{I}$ is necessary because $\lambda{}$ is a scalar. Scalars cannot be subtracted from matrices. Hence, multiplying by $\boldsymbol{I}$ ensures that we get the scalar in the matrix format without changing the meaning.
+- $\boldsymbol{I}$ is necessary because $\lambda$ is a scalar. Scalars cannot be subtracted from matrices. Hence, multiplying by $\boldsymbol{I}$ ensures that we get the scalar in the matrix format without changing the meaning.
 - When we solve the above equation, if we get $x$ as 0, then the vector has no length or direction. This is called a _trivial solution_
 - We can test if $(\boldsymbol{A}-\boldsymbol{I}\lambda{})$ gives 0 by calculating it's determinant
 - The polynomail obtained when solving $det(\boldsymbol{A}-\boldsymbol{I}\lambda{})$ is called CHARACTERISTIC POLYNOMIAL

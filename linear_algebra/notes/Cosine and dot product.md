@@ -20,4 +20,4 @@ Solving the left hand side and equating to the right hand side, we get
 
 $$r.s = |r||s|cos\theta$$
 
-- Hence, if two vectors are $90\degree$ to each other, then their dot product will be ZERO(0)
+- Hence, if two vectors are $90^{\degree}$ to each other, then their dot product will be ZERO(0)

@@ -12,7 +12,6 @@ $$g_1=a+bx$$
 $$g_2=a+bx+cx^2$$
 - Collectively, these series are called _Truncated Series_
 
-
 ## Power series derivation
 
 - This works only for functions that are _well behaved_ i.e functions which are continous and can be diffferentiated as many times as needed
